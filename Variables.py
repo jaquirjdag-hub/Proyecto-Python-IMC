@@ -1,10 +1,11 @@
-
+#variable int (entero)
 Chocolate_caliente = 50
 
 #variable float (decimal)
 Pi = 3.141516
 
 #variable boolean 
+
 is_active = True
 
 #variable string/char (texto)
